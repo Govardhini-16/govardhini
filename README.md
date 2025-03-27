@@ -37,4 +37,7 @@
 
 <img src="https://raw.githubusercontent.com/Govardhini-16/Govardhini-16/output/snake.svg" alt="Snake animation" />
 
+
+###
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ###
